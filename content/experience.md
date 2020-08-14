@@ -3,7 +3,7 @@ title = "Experience & Education"
 slug = "Experience"
 +++
 
-A PDF version of my résumé is available [here](https://drive.google.com/file/d/1yWswvEha2W2KHnoGTsZSy481oDQxHxWx/view?usp=sharing). Also, you can view my LinkedIn [here](https://www.linkedin.com/in/nathanlaux/).
+A PDF version of my résumé is available [here](https://drive.google.com/file/d/11UL5IY7_hUAWrgLKFQ_fnsLBbb2FnEbV/view?usp=sharing). Also, you can view my LinkedIn [here](https://www.linkedin.com/in/nathanlaux/).
 
 
 ### Relevant Work
@@ -20,8 +20,8 @@ A PDF version of my résumé is available [here](https://drive.google.com/file/d
 ###### **Freelance Copyeditor**
 Copyeditor *(Jan. 2019 – Present)*
 
-+ Copyedited a variety of works including monographs, theses, and technical documents
-+ Provided detailed edits to ensure accuracy in grammar, usage, clarity, and logical flow
++ Copyedit a variety of works including monographs, theses, and technical documents
++ Provide detailed edits to ensure accuracy in grammar, usage, clarity, and logical flow
 
 
 
