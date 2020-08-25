@@ -3,7 +3,7 @@ title = "Experience & Education"
 slug = "Experience"
 +++
 
-A PDF version of my résumé is available [here](https://drive.google.com/file/d/11UL5IY7_hUAWrgLKFQ_fnsLBbb2FnEbV/view?usp=sharing). Also, you can view my LinkedIn [here](https://www.linkedin.com/in/nathanlaux/).
+A PDF version of my résumé is available [here](https://drive.google.com/file/d/12eP-PqR0HzXRom73CYI_y98Pui1-zxr3/view?usp=sharing). Also, you can view my LinkedIn [here](https://www.linkedin.com/in/nathanlaux/).
 
 
 ### Relevant Work
