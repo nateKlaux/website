@@ -1,3 +1,7 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/nateKlaux/nateklaux.github.io.git
+<<<<<<< HEAD
+=======
+	branch = master
+>>>>>>> 0bbcf7601ce37b0b4c851185ad829b2eb114a7fe
