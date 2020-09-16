@@ -1,4 +1,0 @@
-[submodule "test"]
-	path = test
-	url = https://github.com/nateKlaux/nateklaux.github.io.git
-	branch = master
