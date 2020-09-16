@@ -3,7 +3,7 @@ title = "Portfolio Samples"
 slug = "samples"
 +++
 
-+ **Hugo and GitHub Pages Tutorial**
++ **Hugo and GitHub Pages Tutorial** 
   + As well as display general technical writing competencies, this [tutorial](https://drive.google.com/file/d/1ug2zY8qyH0SyTkbnqFV-b4aCbCqfEsrR/view?usp=sharing) showcases my proficiency with Markup, version control (Git), and static site generators (Hugo). It also speaks to my understanding of knowledge management databases.
 
 + **OpenAPI Specification Example**
