@@ -12,6 +12,9 @@ slug = "samples"
 + **API Reference (SurfReport)**
   + I created this [API Reference sample](https://drive.google.com/file/d/1P04OB09TeNchCXo5D6YbkMAzBC8_3DW6/view?usp=sharing) in a Documenting APIs course. It shows my familiarity of the usual contents of API reference docs. Written in Markdown and published as pdf for easy distribution.
 
++ **Salesforce Chatter Flowchart**
+  + I created this [diagram](https://drive.google.com/file/d/19UmcfeZD-umGdoBI-4Jk7XQeFqslCD3t/view?usp=sharing) with LucidChart, but it showcases my capabilities with diagramming tools in general (LucidChart, Visio, Omnigraffle, etc.). It uses best practices in regards to diagram shapes. I created the diagram to illustrate to a new team how to use Salesforce Chatter to provide feedback regarding new release notes. 
+
 + **Salesforce User Guide**
   + This [user guide](https://drive.google.com/file/d/1d5vYRnWywGWHqV2h9L4DAyEqBRppA8vA/view?usp=sharing) demonstrates my proficiency with screen captures and procedure writing.
 
