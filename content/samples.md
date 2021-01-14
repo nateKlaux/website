@@ -4,7 +4,7 @@ slug = "samples"
 +++
 
 + **Hugo and GitHub Pages Tutorial**
-  + I created a Hugo + GitHub Pages [tutorial](https://drive.google.com/file/d/1sIbp3miMVzNlmRTUXo9yOgfSBqmp6lbb/view?usp=sharing). Hugo's documentation for hosting a webpage with GitHub Pages is sparse and potentially confusing, especially for those with little familiarity with static site generators. This tutorial mitigates the problem by simplifying both the concepts and steps. As well as display general technical writing competencies, it showcases my proficiency with Markdown, command-line Git, and static site generators. Written in Markdown and published in pdf for easy distribution.
+  + I created a Hugo + GitHub Pages [tutorial](https://drive.google.com/file/d/1JYPjooOLoJ0ZFeckv55zBsMoZhgasVCp/view?usp=sharing). Hugo's documentation for hosting a webpage with GitHub Pages is sparse and potentially confusing for those with little familiarity of static site generators. This tutorial mitigates that problem by simplifying both the concepts and steps. As well as display general technical writing competencies, it showcases my proficiency with Markdown, command-line Git, and static site generators. It was written in Markdown, but converted and published in pdf for easy distribution.
 
 + **OpenAPI Specification Example**
   + I reworked an [API](https://laux.stoplight.io/docs/stoplight-cio-sample/reference/Behavioral-Tracking-API.v1.yaml) into an OpenAPI Spec definition. By using Stoplight, I gave developers a "try it out" feature that makes testing APIs easy. This example shows my familiarity with OpenAPI Specification as well as JSON and YAML data serialization formats.
