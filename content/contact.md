@@ -4,7 +4,4 @@ slug = "contact"
 +++
 
 
-Feel free to reach me at: nathan.k.laux@gmail.com
-
-
-Location: Los Angeles, California
+I'm located in Los Angeles, CA. Feel free to reach me by [email](mailto:nathan.k.laux@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nathanlaux/).

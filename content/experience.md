@@ -11,7 +11,12 @@ A PDF version of my résumé is available [here](https://drive.google.com/file/d
 ###### **Chainalysis**
 
 *Technical Writer* -- (March 2021 - Present)
-+ Lots of cool things.
++ Create end-user and developer documentation for multiple products
+  + Check out API documentation for products [one](https://docs.chainalysis.com/api/kyt/), [two](https://docs.chainalysis.com/api/address-screening/), and [three](https://docs.chainalysis.com/api/sanctions/).
++ Ensure documentation adheres to a coherent information architecture
++ Collaborate with Product, Engineering, and Design to ship accurate and comprehensive content
++ Automate doc processes with GitHub Actions
+
 
 ###### **Naviga**
 
