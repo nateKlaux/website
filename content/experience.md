@@ -6,36 +6,48 @@ slug = "Experience"
 A PDF version of my résumé is available [here](https://drive.google.com/file/d/1Sds-xOdX-EjZhp8gcQxU8kbNimHSEJ0U/view?usp=sharing). Also, you can check out my LinkedIn [profile](https://www.linkedin.com/in/nathanlaux/).
 
 
-### Relevant Work
+#### Relevant Work
 
-###### **Technical Writing Student**
+###### **Chainalysis**
 
-  + Integrate an API into OpenAPI Specification with Stoplight Studio
-  + Create sample API reference documentation
-  + Write a tutorial to demonstrate how to use Hugo and GitHub Pages
-  + Create sample flowchart diagrams and user guides
+*Technical Writer* -- (March 2021 - Present)
++ Lots of cool things.
 
-###### **Freelance Copyeditor**
-Copyeditor *(Jan. 2019 – Present)*
+###### **Naviga**
 
-  + Copyedit a variety of works including monographs, theses, and technical documents
-  + Provide detailed edits to ensure accuracy in grammar, usage, clarity, and logical flow
+*Technical Writer Contractor* -- (November 2020 - March 2021)
++ Wrote API, user guide, and release note documentation
++ Interviewed a globally distributed team of subject matter experts in both asynchrounous and synchrounous formats
++ Diagram complex business workflows and software integrations
++ Created a documentation structure where nothing existed
++ Implemented docs-as-code tooling
 
+###### **Contract & Freelance**
+
+*Technical Writer* -- (June 2020 - March 2021)
+  + Wrote a tutorial to demonstrate how to use Hugo and GitHub Pages
+  + Integrated an API into OpenAPI Specification with Stoplight Studio
+  + Created sample API reference documentation
+  + Created sample flowchart diagrams and user guides
+
+*Copyeditor* -- (January 2019 – November 2020)
+
+  + Copyedited a variety of works to ensure accuracy in grammary, usage, cliarity, and logical flow
+  + Conducted research to fact check information in writing
+  + Ensured  writing conformed to the appropriate style guide
 
 
 ###### **Go Get Em Tiger**
 
-Shift Supervisor *(Aug. 2018 – Jan. 2020)*
+*Shift Supervisor* -- (Aug. 2018 – Jan. 2020)
 
-  + Earned certificate in an intensive “boot-camp” style course, taught by a distinguished technical writer
-  + Configured and used Snagit, Canva, Confluence, Salesforce. and a customized MS Word template
-  + Deployed the latest tools and techniques for writing and editing with a special emphasis on writing procedures
-  + Created a sample Salesforce user guide, a public notice poster, and edited an e-book
+  + Faciliatated trust and motivation with my team that led to business growth
+  + Functioned as the acting general manager for a team of 10 while the general manager was away (~50% of the time)
 
 
 ###### **Biola University**
 
-  Teaching Assistant *(Feb. 2012 – May 2014)*
+*Teaching Assistant* -- (February 2012 – May 2014)
 
   + Helped facilitate in-class discussion and helped design assignments
   + Provided detailed feedback for students’ assignments
@@ -47,7 +59,7 @@ Shift Supervisor *(Aug. 2018 – Jan. 2020)*
 ###### **Covenant Theological Seminary** (M.A.)
 *Philosophical and Theological Studies, 2019*
 
-  + Carried out self-directed research on complex subjects; came up with a research subject and planned its structure
+  + Carried out self-directed research; conceived of, gathered data, and planned the structure of a complex research subject
 
 
 ###### **Biola University** (B.A.)
