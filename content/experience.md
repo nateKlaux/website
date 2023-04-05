@@ -3,7 +3,7 @@ title = "experience"
 slug = "Experience"
 +++
 
-A PDF version of my résumé is available [here](https://drive.google.com/file/d/1Sds-xOdX-EjZhp8gcQxU8kbNimHSEJ0U/view?usp=sharing). Also, you can check out my LinkedIn [profile](https://www.linkedin.com/in/nathanlaux/).
+A PDF of my résumé is available [here](/files/Nathan_Laux-Résumé-2023.pdf). Alternatively, you can check out my [LinkedIn profile](https://www.linkedin.com/in/nathanlaux/).
 
 
 #### Relevant Work
