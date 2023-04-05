@@ -3,4 +3,4 @@ title = "About"
 slug = "about"
 +++
 
-I am a technical writer with an educational background in philosophy and a long history of transforming complex ideas into clean, accessible prose. In my professional experience, I have demonstrated skilled writing, thorough but compassionate editing, competent research, and terrific collaboration and soft skills.
+Based in Los Angeles, CA, I am a technical writer with a background in philosophy and a long history of transforming complex ideas into clear, accessible prose. Throughout my career, I have exhibited adept writing, thorough yet empathetic editing, strong research capabilities, along with outstanding collaboration and soft skills.
