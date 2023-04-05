@@ -103,6 +103,6 @@ googleAnalytics = "UA-180457671-1"
             url = "samples/"
 
             [[languages.en.menu.main]]
-            name = "contact me"
-            weight = 5
-            url = "contact/"
+            name = "contact"
+            weight = 4
+            url = "mailto:nathan.k.laux@gmail.com"
