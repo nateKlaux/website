@@ -1,5 +1,5 @@
 +++
-title = "Portfolio Samples"
+title = "samples"
 slug = "samples"
 +++
 

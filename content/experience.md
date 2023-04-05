@@ -1,5 +1,5 @@
 +++
-title = "Experience & Education"
+title = "experience"
 slug = "Experience"
 +++
 
