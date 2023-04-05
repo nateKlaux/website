@@ -1,3 +1,3 @@
 # Personal Website
 
-These are the source files for my Hugo site, [www.natelaux.com](www.natelaux.com).
+These are the source files for my Hugo site, [www.natelaux.com](https://www.natelaux.com).
