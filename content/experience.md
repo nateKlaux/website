@@ -11,53 +11,29 @@ A PDF of my résumé is available [here](/files/Nathan_Laux-Resume-2023.pdf). Al
 ###### **Chainalysis**
 
 *Technical Writer* -- (March 2021 - Present)
-+ Create end-user and developer documentation for multiple products
-  + Check out API documentation for products [one](https://docs.chainalysis.com/api/kyt/), [two](https://docs.chainalysis.com/api/address-screening/), and [three](https://docs.chainalysis.com/api/sanctions/).
-+ Ensure documentation adheres to a coherent information architecture
-+ Collaborate with Product, Engineering, and Design to ship accurate and comprehensive content
-+ Automate doc processes with GitHub Actions
++ Develop and maintain product documentation for a suite of API and non-API products
+  + See API documentation for products [one](https://docs.chainalysis.com/api/kyt/), [two](https://docs.chainalysis.com/api/address-screening/), and [three](https://docs.chainalysis.com/api/sanctions/).
++ Write and test Python scripts, create tutorials, and provide clear code examples for developers
++ Utilize web development skills and tools for documentation enhancement, including custom CSS, HTML, webpage redirects, Google Analytics implementation, and automation using GitHub Actions
++ Ensure documentation adheres to a coherent information architecture and follows organization’s style guide
++ Collaborate effectively with Product, Engineering, Design, and Marketing teams to deliver accurate and comprehensive content
++ Interview candidates and mentor other writers to strengthen the documentation team
 
 
 ###### **Naviga**
 
 *Technical Writer Contractor* -- (November 2020 - March 2021)
-+ Wrote API, user guide, and release note documentation
-+ Interviewed a globally distributed team of subject matter experts in both asynchrounous and synchrounous formats
-+ Diagram complex business workflows and software integrations
-+ Created a documentation structure where nothing existed
-+ Implemented docs-as-code tooling
++ Developed and maintained both product and developer documentation, catering to diverse user needs
++ Collaborated with a global team of subject matter experts, conducting interviews in both synchronous and asynchronous formats to gather accurate information
++ Implemented and managed docs-as-code tooling to streamline documentation processes and improve efficiency
 
 ###### **Contract & Freelance**
 
-*Technical Writer* -- (June 2020 - March 2021)
-  + Wrote a tutorial to demonstrate how to use Hugo and GitHub Pages
-  + Integrated an API into OpenAPI Specification with Stoplight Studio
-  + Created sample API reference documentation
-  + Created sample flowchart diagrams and user guides
-
-*Copyeditor* -- (January 2019 – November 2020)
-
-  + Copyedited a variety of works to ensure accuracy in grammary, usage, cliarity, and logical flow
-  + Conducted research to fact check information in writing
-  + Ensured  writing conformed to the appropriate style guide
-
-
-###### **Go Get Em Tiger**
-
-*Shift Supervisor* -- (Aug. 2018 – Jan. 2020)
-
-  + Faciliatated trust and motivation with my team that led to business growth
-  + Functioned as the acting general manager for a team of 10 while the general manager was away (~50% of the time)
-
-
-###### **Biola University**
-
-*Teaching Assistant* -- (February 2012 – May 2014)
-
-  + Helped facilitate in-class discussion and helped design assignments
-  + Provided detailed feedback for students’ assignments
-  + Documented reviews of supervisor’s publications
-
+*Technical Writer* -- (January 2019 - March 2021)
++ Developed a comprehensive tutorial on using Hugo and GitHub Pages for website deployment, covering installation, configuration, and best practices
++ Seamlessly integrated an API into OpenAPI Specification using Stoplight Studio, enhancing documentation quality and usability
++ Crafted sample API reference documentation, ensuring clarity and accuracy to assist developers in integrating the API effectively
++ Designed and created informative flowchart diagrams to visually explain complex processes and workflowsAuthored user guides with step-by-step instructions, use case examples, and troubleshooting tips to improve user experience and product adoption
 
 ### Education
 
