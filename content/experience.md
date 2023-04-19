@@ -12,7 +12,7 @@ A PDF of my résumé is available [here](/files/Nathan_Laux-Resume-2023.pdf). Al
 
 *Technical Writer* -- (March 2021 - Present)
 + Develop and maintain product documentation for a suite of API and non-API products
-  + See API documentation for products [one](https://docs.chainalysis.com/api/kyt/), [two](https://docs.chainalysis.com/api/address-screening/), and [three](https://docs.chainalysis.com/api/sanctions/).
+  + See API documentation for products [one](https://docs.chainalysis.com/api/kyt/), [two](https://docs.chainalysis.com/api/address-screening/), and [three](https://docs.chainalysis.com/api/sanctions/)
 + Write and test Python scripts, create tutorials, and provide clear code examples for developers
 + Utilize web development skills and tools for documentation enhancement, including custom CSS, HTML, webpage redirects, Google Analytics implementation, and automation using GitHub Actions
 + Ensure documentation adheres to a coherent information architecture and follows organization’s style guide
