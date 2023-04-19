@@ -8,6 +8,9 @@ slug = "samples"
   + [Product two](https://docs.chainalysis.com/api/address-screening/)
   + [Product three](https://docs.chainalysis.com/api/sanctions/)
 
++ **Python Scraper and Corresponding Tutorial**
+  + I created a Python-based web scraper to extract winemaker profiles from the various online sources, translate the text to English, and store the gathered data in a CSV file. Alongside the script, I crafted an in-depth tutorial that guides readers through the process of building the web scraper, explaining the purpose and functionality of each code segment. To explore the script or review the tutorial, visit its [GitHub repository](https://github.com/nateKlaux/winemaker_scraper) or corresponding [README.md file](https://github.com/nateKlaux/winemaker_scraper/blob/main/README.md).
+
 + **Hugo and GitHub Pages Tutorial**
   + I created a Hugo + GitHub Pages [tutorial](https://drive.google.com/file/d/1JYPjooOLoJ0ZFeckv55zBsMoZhgasVCp/view?usp=sharing). As a beginner, building and hosting a static web page is confusing. This tutorial addresses that gap and aims to simplify both the concepts and steps. As well, it displays my technical writing competencies and showcases my proficiency with Markdown, command-line Git, and static site generators. I created this tutorial in Markdown and then converted it to a pdf for simple distribution.
 
