@@ -11,13 +11,13 @@ A PDF of my résumé is available [here](/files/Nathan_Laux-Resume-2023.pdf). Al
 ###### **Chainalysis**
 
 *Technical Writer* -- (March 2021 - Present)
-+ Develop and maintain product documentation for a suite of API and non-API products
++ Develop and maintain comprehensive documentation for blockchain API and UI products, catering to both public and private sector customers
   + See API documentation for products [one](https://docs.chainalysis.com/api/kyt/), [two](https://docs.chainalysis.com/api/address-screening/), and [three](https://docs.chainalysis.com/api/sanctions/)
-+ Write and test Python scripts, create tutorials, and provide clear code examples for developers
-+ Utilize web development skills and tools for documentation enhancement, including custom CSS, HTML, webpage redirects, Google Analytics implementation, and automation using GitHub Actions
-+ Ensure documentation adheres to a coherent information architecture and follows organization’s style guide
-+ Collaborate effectively with Product, Engineering, Design, and Marketing teams to deliver accurate and comprehensive content
-+ Interview candidates and mentor other writers to strengthen the documentation team
++ Author and test Python scripts, craft step-by-step tutorials, and deliver developer-friendly code snippets within a docs-as-code environment
++ Utilize custom JavaScript, CSS, and HTML to enhance user experience of documentation website 
++ Develop sensible information architecture and organizational style guide standards to ensure coherent and consistent documentation
++ Collaborate with Product, Engineering, Design, and Marketing teams to deliver accurate and comprehensive content
++ Interview candidates and mentor junior technical writers to strengthen the documentation team
 
 
 ###### **Naviga**
