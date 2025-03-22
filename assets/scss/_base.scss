@@ -11,6 +11,7 @@ html {
 
 body {
   color: $fg-color;
+  letter-spacing: 0.02em;
   background-color: $bg-color;
 	font-family: $text-font-family;
 	font-size: 1.6em;
@@ -24,6 +25,7 @@ body {
 
 a {
   font-weight: 300;
+  letter-spacing: 0.02em;
   color: $link-color;
   text-decoration: none;
   &:focus,
@@ -98,7 +100,7 @@ h6 {
 }
 
 b, strong {
-  font-weight: 700;
+  font-weight: 900;
 }
 
 .highlight > div,

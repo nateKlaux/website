@@ -56,6 +56,9 @@ googleAnalytics = "UA-180457671-1"
 
     # Custom JS
     custom_js = []
+    
+    favicon_32 = "/favicon.svg"
+    favicon_16 = "/favicon.svg"
 
 # If you want to use fathom(https://usefathom.com) for analytics, add this section
 [params.fathomAnalytics]

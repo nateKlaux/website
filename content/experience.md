@@ -3,60 +3,69 @@ title = "experience"
 slug = "Experience"
 +++
 
-A PDF of my résumé is available [here](/files/Nathan_Laux-Resume-2023.pdf). Alternatively, you can check out my [LinkedIn profile](https://www.linkedin.com/in/nathanlaux/).
+A PDF of my résumé is available [here](/files/Nathan_Laux-Résumé-2025.pdf). Alternatively, you can check out my [LinkedIn profile](https://www.linkedin.com/in/nathanlaux/).
 
 
-#### Relevant Work
+###### Technical Writer, Chainalysis
 
-###### **Chainalysis**
+_March 2021 - Present_
 
-*Technical Writer* -- (March 2021 - Present)
-+ Develop and maintain comprehensive documentation for blockchain API and UI products, catering to both public and private sector customers
-  + See API documentation for products [one](https://docs.chainalysis.com/api/kyt/), [two](https://docs.chainalysis.com/api/address-screening/), and [three](https://docs.chainalysis.com/api/sanctions/)
-+ Author and test Python scripts, craft step-by-step tutorials, and deliver developer-friendly code snippets within a docs-as-code environment
-+ Utilize custom JavaScript, CSS, and HTML to enhance user experience of documentation website 
-+ Develop sensible information architecture and organizational style guide standards to ensure coherent and consistent documentation
-+ Collaborate with Product, Engineering, Design, and Marketing teams to deliver accurate and comprehensive content
-+ Interview candidates and mentor junior technical writers to strengthen the documentation team
+At Chainalysis, I focus on delivering clear, accurate, and user-centric content for our API, SDK, and UI users in a docs-as-code environment. I collaborate cross-functionally with Product Managers, Engineering Managers, Product Design, Product Marketing, and Customer Support to ensure documentation meets both technical and business requirements. I own the documentation process from start to finish, from planning through delivery and maintenance.
 
+**Key achievements:**
 
-###### **Naviga**
+- Led the migration of legacy documentation to a modern platform that reduced internal engineering cost, enhanced user experience with improved design and usability, and decreased average user onboarding time.
+- Established company-wide documentation standards and information architecture that scaled to support a 3x growth in product offerings.
+- Developed Python automation scripts that reduced documentation update time.
 
-*Technical Writer Contractor* -- (November 2020 - March 2021)
-+ Developed and maintained both product and developer documentation, catering to diverse user needs
-+ Collaborated with a global team of subject matter experts, conducting interviews in both synchronous and asynchronous formats to gather accurate information
-+ Implemented and managed docs-as-code tooling to streamline documentation processes and improve efficiency
+###### Technical Writer, Alchemy
 
-###### **Contract & Freelance**
+_January 2022 – June 2022 (Contract)_
 
-*Technical Writer* -- (January 2019 - March 2021)
-+ Developed a comprehensive tutorial on using Hugo and GitHub Pages for website deployment, covering installation, configuration, and best practices
-+ Seamlessly integrated an API into OpenAPI Specification using Stoplight Studio, enhancing documentation quality and usability
-+ Crafted sample API reference documentation, ensuring clarity and accuracy to assist developers in integrating the API effectively
-+ Designed and created informative flowchart diagrams to visually explain complex processes and workflowsAuthored user guides with step-by-step instructions, use case examples, and troubleshooting tips to improve user experience and product adoption
+During my contract with Alchemy, I focused on making web3 development more accessible through clear, practical documentation. I tested dApps hands-on to ensure documentation accurately addressed real developer challenges on blockchain platforms. I also maintained documentation quality across multiple contributors by standardizing tone and style, creating a consistent experience for developers navigating complex blockchain concepts.
+
+**Key achievements:**
+
+- Developed comprehensive guides that simplified dApp construction across multiple blockchain platforms
+- Enhanced documentation quality through direct testing and validation of web3 applications
+- Established editorial standards that unified content from diverse technical contributors
+
+##### Technical Writer (Contractor), Naviga
+
+_November 2020 - March 2021_
+
+At Naviga, I developed documentation that served both end-users and developers, addressing the unique needs of each audience. I collaborated across time zones with subject matter experts, adapting my information-gathering approach to accommodate both real-time and asynchronous communication. I also implemented a docs-as-code workflow that enhanced the documentation process and improved overall team efficiency.
+
+**Key achievements:**
+
+- Created dual-audience documentation that effectively served both technical and non-technical users
+- Established effective knowledge transfer methods with a distributed global team
+- Implemented docs-as-code tooling that streamlined documentation creation and maintenance
+
 
 ### Education
 
-###### **Covenant Theological Seminary** (M.A.)
-*Philosophical and Theological Studies, 2019*
+###### Covenant Theological Seminary (M.A.)
 
-  + Carried out self-directed research; conceived of, gathered data, and planned the structure of a complex research subject
+_Philosophical and Theological Studies, 2019_
+
+  + Conducted independent research projects requiring complex data gathering and structured analysis
 
 
-###### **Biola University** (B.A.)
-*Philosophical and Theological Studies, 2013*
+###### Biola University (B.A.)
+
+_Philosophical and Theological Studies, 2013_
 
 ### Professional Development
 
-##### **Become a Technical Writer**
-  + Earned certificate in an intensive “boot-camp” style course, taught by a distinguished technical writer
-  + Configured and used easyDITA, LucidChart, Snagit, Canva, Confluence, Salesforce, and a customized MS Word template
-  + Deployed the latest tools and techniques for writing and editing with a special emphasis on writing procedures
-  + Created a sample Salesforce user guide, a Salesforce flowchart diagram, and a public notice poster
+##### Become a Technical Writer
 
+- Completed intensive technical writing program covering industry-standard tools and methodologies.
+- Gained proficiency in documentation tools including easyDITA, Confluence, and specialized templates.
+- Created professional documentation samples including user guides, flowcharts, and technical notices.
 
 ##### **Python for Everybody**
 
-  + Developed programs to gather, clean, analyze and visualize data
-  + Scraped, parsed, and read web data as well as accessed data using web APIs in HTML, XML, and JSON data formats
-  + Used SQLite3 database to gather and visualize data
+  + Developed programs for data collection, cleaning, analysis, and visualization.
+  + Built web scrapers and API integrations using HTML, XML, and JSON.
+  + Implemented SQLite3 databases for data management and visualization.

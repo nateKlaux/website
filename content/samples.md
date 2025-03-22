@@ -3,12 +3,23 @@ title = "samples"
 slug = "samples"
 +++
 
-+ **Developer Portal and REST API Reference Documentation**
-  + [Product one](https://docs.chainalysis.com/api/kyt/)
-  + [Product two](https://docs.chainalysis.com/api/address-screening/)
-  + [Product three](https://docs.chainalysis.com/api/sanctions/)
 
-+ **Python Scraper and Corresponding Tutorial**
+**OpenAPI Spec:** I hand wrote an [OAS definition](https://developers.chainalysis.com/kyt/api-reference/api-overview). The preceding link showcases the final API reference. Each endpoint includes examples, accurate data types and nullability, and consistent, descriptive naming across requests, responses, and parameters.
+
+<br > 
+<br >
+
+**Python Scripts:** I write Python scripts with accompanying tutorials. [This one](https://developers.chainalysis.com/kyt/docs/scripts/dismiss-indirect-alerts-with-custom-criteria) calls an endpoint, applies a client-side filter that isn’t supported by query parameters, then calls another endpoint to action the data.  The tutorial guides the user through the script’s functions with the goal of teaching how to use the endpoints in a live scenario. It follows the Diátaxis documentation framework.
+
+<br > 
+<br >
+
+**Procedural Content:** Procedural content is common to all technical writing. I write a lot of it. [Here](https://developers.chainalysis.com/kyt/docs/get-started/quickstart) is an example of a quickstart that shows the user what they need to do to get started in three steps.
+
+
+
+
+<!--  + **Python Scraper and Corresponding Tutorial**
   + I created a Python-based web scraper to extract winemaker profiles from the various online sources, translate the text to English, and store the gathered data in a CSV file. Alongside the script, I crafted an in-depth tutorial that guides readers through the process of building the web scraper, explaining the purpose and functionality of each code segment. To explore the script or review the tutorial, visit its [GitHub repository](https://github.com/nateKlaux/winemaker_scraper) or corresponding [README.md file](https://github.com/nateKlaux/winemaker_scraper/blob/main/README.md).
 
 + **Hugo and GitHub Pages Tutorial**
@@ -20,7 +31,7 @@ slug = "samples"
 + **API Reference (SurfReport)**
   + I created an [API Reference sample](/files/SurfReport_API_Reference.pdf) during a Documenting APIs course to highlight my familiarity with the typical components found in API reference documentation. This sample showcases my proficiency in creating informative and accessible API documentation. I created this sample with Markdown and then converted it to a pdf for simpler distribution.
 
-<!-- + **Salesforce Chatter Flowchart**
+ + **Salesforce Chatter Flowchart**
   + I created this [diagram](https://drive.google.com/file/d/19UmcfeZD-umGdoBI-4Jk7XQeFqslCD3t/view?usp=sharing) with LucidChart, but it showcases my capabilities with diagramming tools in general (LucidChart, Visio, Omnigraffle, etc.). It uses best practices in regards to diagram shapes. I created the diagram to illustrate to a new team how to use Salesforce Chatter to provide feedback regarding new release notes.
 
 + **Salesforce User Guide**
