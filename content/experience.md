@@ -3,7 +3,7 @@ title = "experience"
 slug = "Experience"
 +++
 
-A PDF of my résumé is available [here](files/Nathan_Laux-Resume-2025.pdf). Alternatively, you can check out my [LinkedIn profile](https://www.linkedin.com/in/nathanlaux/).
+A PDF of my résumé is available [here](/files/Nathan_Laux-Resume-2025.pdf). Alternatively, you can check out my [LinkedIn profile](https://www.linkedin.com/in/nathanlaux/).
 
 
 ###### Technical Writer, Chainalysis
