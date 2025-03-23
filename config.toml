@@ -19,8 +19,8 @@ googleAnalytics = "UA-180457671-1"
 
 [params]
     author = "NATHAN K. LAUX"
-    description = "Nathan Laux's personal website"
-    keywords = "blog, technical writer, houellebecq"
+    description = "Technical writer specializing in API documentation, developer experience, and docs-as-code workflows."
+    keywords = "technical writer, API documentation, developer documentation, REST API docs, OpenAPI, docs-as-code, software documentation, documentation engineer, developer experience, DX writing, B2B SaaS documentation, writing for developers, Postman documentation, Swagger, technical content strategy, Git-based documentation, UX writing for APIs"
     info = "TECHNICAL WRITER"
     avatarurl = ""
     #gravatar = "john.doe@example.com"
@@ -44,6 +44,8 @@ googleAnalytics = "UA-180457671-1"
     # "dark" (dark background, light foreground)
     # "light" (light background, dark foreground) (default)
     colorscheme = "dark"
+    hideColorSchemeToggle = true
+
 
     # Series see also post count
     maxSeeAlsoItems = 5
@@ -109,3 +111,4 @@ googleAnalytics = "UA-180457671-1"
             name = "contact"
             weight = 4
             url = "mailto:nathan.k.laux@gmail.com"
+
