@@ -5,7 +5,6 @@ slug = "Experience"
 
 A PDF of my résumé is available [here](/files/Nathan_Laux-Resume-2025.pdf). Alternatively, you can check out my [LinkedIn profile](https://www.linkedin.com/in/nathanlaux/).
 
-
 ###### Technical Writer, Chainalysis
 
 _March 2021 - Present_
@@ -42,15 +41,13 @@ At Naviga, I developed documentation that served both end-users and developers, 
 - Established effective knowledge transfer methods with a distributed global team
 - Implemented docs-as-code tooling that streamlined documentation creation and maintenance
 
-
 ### Education
 
 ###### Covenant Theological Seminary (M.A.)
 
 _Philosophical and Theological Studies, 2019_
 
-  + Conducted independent research projects requiring complex data gathering and structured analysis
-
+- Conducted independent research projects requiring complex data gathering and structured analysis
 
 ###### Biola University (B.A.)
 
@@ -66,6 +63,6 @@ _Philosophical and Theological Studies, 2013_
 
 ##### **Python for Everybody**
 
-  + Developed programs for data collection, cleaning, analysis, and visualization.
-  + Built web scrapers and API integrations using HTML, XML, and JSON.
-  + Implemented SQLite3 databases for data management and visualization.
+- Developed programs for data collection, cleaning, analysis, and visualization.
+- Built web scrapers and API integrations using HTML, XML, and JSON.
+- Implemented SQLite3 databases for data management and visualization.
