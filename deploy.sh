@@ -1,25 +1,39 @@
 #!/bin/sh
 
-# If a command fails then the deploy stops
 set -e
 
-printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
+printf "\033[0;32m🚀 Deploying updates to GitHub...\033[0m\n"
 
-# Build the project.
-hugo -t hugo-coder # if using a theme, replace with `hugo -t <YOURTHEME>`
+# Set the build output folder
+PUBLIC_DIR="public"
 
-# Go To Public folder
-cd public
+# Build the site with theme
+hugo -t hugo-coder
 
-# Add changes to git.
+# Move into the public folder
+cd "$PUBLIC_DIR"
+
+# Sanity check
+if ! git rev-parse --is-inside-work-tree > /dev/null 2>&1; then
+  echo "Error: '$PUBLIC_DIR' is not a valid Git repository. Did you initialize the submodule?"
+  exit 1
+fi
+
+
+# Add and commit changes
 git add .
 
-# Commit changes.
+if git diff --quiet && git diff --cached --quiet; then
+  echo "No changes to deploy."
+  exit 0
+fi
+
 msg="rebuilding site $(date)"
 if [ -n "$*" ]; then
-	msg="$*"
+  msg="$*"
 fi
-git commit -m "$msg"
 
-# Push source and build repos.
+git commit -m "$msg"
 git push origin master
+
+echo "✅ Deployed successfully!"
