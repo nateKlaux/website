@@ -65,6 +65,12 @@ Quick reference for AI-assisted development on this Hugo static site project.
 - **`/static/files/`** - Downloadable PDFs (resume, tutorials)
 - **`/static/favicon.svg`** - Site icon
 
+### Custom Overrides (Local layouts override theme)
+- **`/layouts/partials/footer.html`** - Empty footer (removes theme's "Powered by" text)
+- **`/layouts/partials/head/custom-styles.html`** - Loads Font Awesome 6.7.2 from CDN
+  - Note: Theme's Font Awesome SCSS doesn't compile properly with Hugo's processor
+  - CDN approach is more reliable for icon fonts
+
 ### Build Output
 - **`/public/`** (Git submodule)
   - Generated static site
@@ -124,6 +130,25 @@ cd ../..
 
 - **Two Git repos**: Don't confuse source repo with public/ submodule
 - **Submodule sync**: If `public/` seems out of sync, run `git submodule update --init --recursive`
-- **Theme is also a submodule**: Located at `themes/hugo-coder/`
+- **Theme is NOT a submodule**: The theme is tracked as regular files (not a git submodule)
 - **Dark theme**: Color scheme toggle is disabled in config
 - **Analytics**: Google Analytics (UA-180457671-1) and Fathom configured
+
+## Common Issues
+
+### Deployment fails with "non-fast-forward" error
+
+If `./deploy.sh` fails to push to GitHub Pages:
+
+```bash
+# The public submodule is behind remote, sync it first:
+cd public && git checkout master && git pull origin master && cd ..
+# Then deploy:
+./deploy.sh
+```
+
+### Social icons not showing
+
+- Icons use Font Awesome 6 via CDN (loaded in `layouts/partials/head/custom-styles.html`)
+- Icon format: `fa-brands fa-[icon-name] fa-2x` (e.g., `fa-brands fa-github fa-2x`)
+- Theme's built-in Font Awesome SCSS compilation doesn't work reliably
