@@ -77,12 +77,12 @@ googleAnalytics = "UA-180457671-1"
 
 [[params.social]]
     name = "Github"
-    icon = "fab fa-github"
+    icon = "fa-brands fa-github fa-2x"
     weight = 1
     url = "https://github.com/nateklaux/"
 [[params.social]]
     name = "LinkedIn"
-    icon = "fab fa-linkedin"
+    icon = "fa-brands fa-linkedin fa-2x"
     weight = 4
     url = "https://www.linkedin.com/in/nathanlaux/"
 
